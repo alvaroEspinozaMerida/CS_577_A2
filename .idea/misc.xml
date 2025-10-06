@@ -3,5 +3,8 @@
   <component name="Black">
     <option name="sdkName" value="uv (CS_577_A2)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="uv (CS_577_A2)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (CS_577_A2)" project-jdk-type="Python SDK" />
+  <component name="PyCharmDSProjectLayout">
+    <option name="id" value="JupyterRightHiddenStructureLayout" />
+  </component>
 </project>
